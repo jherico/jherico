@@ -17,5 +17,4 @@ Here are some ideas to get you started:
 -->
 
 ### Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=jherico&show_icons=true&theme=dark&include_all_commits=true" alt=" GitHub stats for Bradley Austin Davis"/>
+<img src="https://github-readme-stats.vercel.app/api?username=jherico&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="jherico's GitHub Stats" />
